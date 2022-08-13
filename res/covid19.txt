@@ -1,0 +1,6 @@
+fatality 0.03
+infection 0.62
+incubation 7
+sickness 14
+asymptomatic 0.25
+exposuredistance 25
